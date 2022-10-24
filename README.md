@@ -60,3 +60,4 @@ We don't spot a clear relationship between the actual rank and our dataset.
 Observation: When looking for Harry Potter's ISBN code, the book is Order of The Phoenix, which appears in position 9 of the most valued titles from out DB.
 Why won't they relate to each other? ISBN from our DB != ISBN from NYT.
 
+##Most preffered genre
